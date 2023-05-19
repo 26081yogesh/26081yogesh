@@ -1,12 +1,10 @@
 
-<h1 align="center"> 
-  
-  <h1 align="center">Hi 👋, I'm Yogesh Yadav</h1>
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<h1 align="center">Hi 👋, I'm Yogesh</h1>
 <h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=26081yogesh&label=Profile%20views&color=0e75b6&style=flat" alt="26081yogesh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=26081yogesh" alt="26081yogesh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -15,6 +13,8 @@
 - 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/26081yogesh](https://github.com/26081yogesh)
+
+- 💬 Ask me about **Flutter, React**
 
 - 📫 How to reach me **26081yogesh@gmail.com**
 
